@@ -1,0 +1,32 @@
+id: ocd-person/ad0cef06-ff42-4536-973d-7136993f661b
+name: Donald J. Trump
+given_name: Donald
+family_name: Trump
+middle_name: John
+birth_date: 1946-06-14
+image: https://www.whitehouse.gov/wp-content/uploads/2025/06/President-Donald-Trump-Official-Presidential-Portrait.png
+party:
+- name: Republican
+roles:
+- start_date: '2017-01-20'
+  end_date: '2021-01-20'
+  type: president
+  jurisdiction: ocd-jurisdiction/country:us/government
+- start_date: '2025-01-20'
+  end_date: '2029-01-20'
+  type: president
+  jurisdiction: ocd-jurisdiction/country:us/government
+offices:
+- classification: capitol
+  address: 1600 Pennsylvania Avenue NW; Washington, DC 20500
+  voice: 202-456-1111
+links:
+- url: https://www.whitehouse.gov/administration/donald-j-trump/
+  note: Official White House biography
+- url: https://truthsocial.com/@realDonaldTrump
+  note: Truth Social
+ids:
+  twitter: realDonaldTrump
+sources:
+- url: https://www.whitehouse.gov/administration/donald-j-trump/
+  note: Official White House biography (verified 2026-04-22)
