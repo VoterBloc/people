@@ -2,7 +2,6 @@ id: ocd-person/0587c400-b81a-4ced-b560-a4009519076a
 name: Kimberly Driscoll
 given_name: Kimberly
 family_name: Driscoll
-email: mayor@salem.com
 roles:
 - end_date: '2021-11-02'
   type: mayor
